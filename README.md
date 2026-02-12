@@ -4,15 +4,16 @@
 Welcome to my repository! This project contains information about me, my hobbies, and my skills
 
 ## Screenshots
-<img width="1366" height="729" alt="image" src="https://github.com/user-attachments/assets/38bde0b1-4bd2-4986-8dec-87c2a62d0510" />
-<img width="1366" height="725" alt="image" src="https://github.com/user-attachments/assets/b55f9e2a-9c91-4292-a272-d762a52ee1cc" />
-<img width="1366" height="722" alt="image" src="https://github.com/user-attachments/assets/524bc1ab-2c55-4bbb-a91d-9ae5a77fafe3" />
+<img width="1366" height="729" alt="image" src="<img width="1920" height="1031" alt="image" src="https://github.com/user-attachments/assets/b58968d9-97a4-4e63-9fb9-4e09b41253d9" />
+<img width="1366" height="725" alt="image" src="<img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/46ca4951-792f-4f5e-a479-019534c0a1c2" />
+<img width="1366" height="722" alt="image" src="<img width="1920" height="1027" alt="image" src="https://github.com/user-attachments/assets/4b41a22d-6637-4845-b5fe-40e643166fc9" />
+" />
 
 ## How to run the Project Locally
 
 1. Clone the repository:
    ```bash
-   https://github.com/mikyuut/WAD-Lab3-Portfolio.git
+   https://github.com
    ```
 2. Navigate the project directory:
    ```
@@ -36,9 +37,9 @@ Welcome to my repository! This project contains information about me, my hobbies
    ```
 7. Open a browser and visit:
    ```bash
-   http://127.0.0.1:8000/about
-   http://127.0.0.1:8000/hobbies
-   http://127.0.0.1:8000/skills
+   http://127.0.0.1:8000/
+   http://127.0.0.1:8000/aboutme
+   http://127.0.0.1:8000/acadbackground
    ```
 
 
